@@ -1,5 +1,6 @@
 # codef
 
+It is a silly project(lolz).
 **Boostrap your competitive programming contests with structured boilerplate code.**
 
 `codef` is a command-line tool designed to streamline the setup process for competitive programming contests, particularly for platforms like Codeforces. It automates the creation of well-organized directories and populates them with basic file templates for your preferred programming language, allowing you to focus on solving problems right away.
